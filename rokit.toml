@@ -1,0 +1,4 @@
+[tools]
+luau = "0.700"
+stylua = "2.1.0"
+selene = "0.28.0"

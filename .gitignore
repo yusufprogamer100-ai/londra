@@ -1,0 +1,9 @@
+node_modules/
+.build/
+*.log
+coverage.out
+profile.out
+callgrind.out
+trace.json
+.DS_Store
+Thumbs.db
